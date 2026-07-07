@@ -1,0 +1,30 @@
+# === one8 FitLab — root ignore rules ===
+# Most build artifacts are covered by /frontend/.gitignore and
+# /backend/.gitignore; this file catches editor/OS noise and anything
+# created at the repo root.
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env files (never commit real secrets)
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Agent/planning scratch (keep the plan doc out of history if regenerated)
+.junie/plans/*.local.md
