@@ -1,0 +1,566 @@
+{
+  "communities": {
+    "0": [
+      "basemodel",
+      "c_users_hp_desktop_one_backend_app_routers_recommend_py",
+      "c_users_hp_desktop_one_backend_app_routers_recommend_rationale_1",
+      "c_users_hp_desktop_one_backend_app_routers_recommend_recommend",
+      "c_users_hp_desktop_one_backend_app_routers_scan_py",
+      "c_users_hp_desktop_one_backend_app_routers_scan_rationale_1",
+      "c_users_hp_desktop_one_backend_app_routers_scan_rationale_19",
+      "c_users_hp_desktop_one_backend_app_routers_scan_rationale_51",
+      "c_users_hp_desktop_one_backend_app_routers_scan_rationale_65",
+      "c_users_hp_desktop_one_backend_app_routers_scan_scan_foot",
+      "c_users_hp_desktop_one_backend_app_routers_scan_scan_foot_manual",
+      "c_users_hp_desktop_one_backend_app_routers_scan_scan_gait",
+      "c_users_hp_desktop_one_backend_app_routers_scans_delete_scan",
+      "c_users_hp_desktop_one_backend_app_routers_scans_list_scans",
+      "c_users_hp_desktop_one_backend_app_routers_scans_py",
+      "c_users_hp_desktop_one_backend_app_routers_scans_rationale_1",
+      "c_users_hp_desktop_one_backend_app_routers_scans_rationale_135",
+      "c_users_hp_desktop_one_backend_app_routers_scans_rationale_34",
+      "c_users_hp_desktop_one_backend_app_routers_scans_rationale_80",
+      "c_users_hp_desktop_one_backend_app_routers_scans_require_configured",
+      "c_users_hp_desktop_one_backend_app_routers_scans_save_scan",
+      "c_users_hp_desktop_one_backend_app_routers_size_compute_size",
+      "c_users_hp_desktop_one_backend_app_routers_size_py",
+      "c_users_hp_desktop_one_backend_app_routers_size_rationale_1",
+      "c_users_hp_desktop_one_backend_app_schemas_footscanresponse",
+      "c_users_hp_desktop_one_backend_app_schemas_gaitresult",
+      "c_users_hp_desktop_one_backend_app_schemas_goalsprofile",
+      "c_users_hp_desktop_one_backend_app_schemas_manualmeasurementrequest",
+      "c_users_hp_desktop_one_backend_app_schemas_measurement",
+      "c_users_hp_desktop_one_backend_app_schemas_py",
+      "c_users_hp_desktop_one_backend_app_schemas_rationale_1",
+      "c_users_hp_desktop_one_backend_app_schemas_rationale_83",
+      "c_users_hp_desktop_one_backend_app_schemas_recommendation",
+      "c_users_hp_desktop_one_backend_app_schemas_recommendrequest",
+      "c_users_hp_desktop_one_backend_app_schemas_recommendresponse",
+      "c_users_hp_desktop_one_backend_app_schemas_savedscanresponse",
+      "c_users_hp_desktop_one_backend_app_schemas_savescanrequest",
+      "c_users_hp_desktop_one_backend_app_schemas_scanhistoryitem",
+      "c_users_hp_desktop_one_backend_app_schemas_scanhistoryresponse",
+      "c_users_hp_desktop_one_backend_app_schemas_sizerequest",
+      "c_users_hp_desktop_one_backend_app_schemas_sizeresult",
+      "uploadfile"
+    ],
+    "1": [
+      "c_users_hp_desktop_one_frontend_src_app_history_page_historypage",
+      "c_users_hp_desktop_one_frontend_src_app_history_page_tsx",
+      "c_users_hp_desktop_one_frontend_src_app_studio_page_default_goals",
+      "c_users_hp_desktop_one_frontend_src_app_studio_page_phase",
+      "c_users_hp_desktop_one_frontend_src_app_studio_page_steps",
+      "c_users_hp_desktop_one_frontend_src_app_studio_page_studiopage",
+      "c_users_hp_desktop_one_frontend_src_app_studio_page_tsx",
+      "c_users_hp_desktop_one_frontend_src_components_cadencetapper_cadencetapper",
+      "c_users_hp_desktop_one_frontend_src_components_cadencetapper_tsx",
+      "c_users_hp_desktop_one_frontend_src_components_fitbadge_fitbadge",
+      "c_users_hp_desktop_one_frontend_src_components_fitbadge_map",
+      "c_users_hp_desktop_one_frontend_src_components_fitbadge_tsx",
+      "c_users_hp_desktop_one_frontend_src_components_fitcard_fitcard",
+      "c_users_hp_desktop_one_frontend_src_components_fitcard_tsx",
+      "c_users_hp_desktop_one_frontend_src_components_recommendationcard_recommendationcard",
+      "c_users_hp_desktop_one_frontend_src_components_recommendationcard_tsx",
+      "c_users_hp_desktop_one_frontend_src_components_stepper_stepper",
+      "c_users_hp_desktop_one_frontend_src_components_stepper_tsx",
+      "c_users_hp_desktop_one_frontend_src_lib_api_authheaders",
+      "c_users_hp_desktop_one_frontend_src_lib_api_deletescan",
+      "c_users_hp_desktop_one_frontend_src_lib_api_fitbadge",
+      "c_users_hp_desktop_one_frontend_src_lib_api_footscanresponse",
+      "c_users_hp_desktop_one_frontend_src_lib_api_gaitprofilekind",
+      "c_users_hp_desktop_one_frontend_src_lib_api_gaitresult",
+      "c_users_hp_desktop_one_frontend_src_lib_api_getcatalog",
+      "c_users_hp_desktop_one_frontend_src_lib_api_goals",
+      "c_users_hp_desktop_one_frontend_src_lib_api_jsonorthrow",
+      "c_users_hp_desktop_one_frontend_src_lib_api_listscans",
+      "c_users_hp_desktop_one_frontend_src_lib_api_measurement",
+      "c_users_hp_desktop_one_frontend_src_lib_api_product",
+      "c_users_hp_desktop_one_frontend_src_lib_api_recommend",
+      "c_users_hp_desktop_one_frontend_src_lib_api_recommendation",
+      "c_users_hp_desktop_one_frontend_src_lib_api_recommendresponse",
+      "c_users_hp_desktop_one_frontend_src_lib_api_savescan",
+      "c_users_hp_desktop_one_frontend_src_lib_api_scanfoot",
+      "c_users_hp_desktop_one_frontend_src_lib_api_scanfootmanual",
+      "c_users_hp_desktop_one_frontend_src_lib_api_scangait",
+      "c_users_hp_desktop_one_frontend_src_lib_api_scanhistoryitem",
+      "c_users_hp_desktop_one_frontend_src_lib_api_ts"
+    ],
+    "2": [
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_analyze_foot_image",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_cv_available",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_detect_sheet",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_manual_measurement",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_order_quad",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_py",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_py_exception",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_rationale_1",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_rationale_101",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_rationale_136",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_rationale_38",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_rationale_46",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_rationale_82",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_scanerror",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_segment_foot_classical",
+      "c_users_hp_desktop_one_backend_app_services_cv_pipeline_should_fallback",
+      "c_users_hp_desktop_one_backend_app_services_geometry_compute_scale",
+      "c_users_hp_desktop_one_backend_app_services_geometry_footmeasurement",
+      "c_users_hp_desktop_one_backend_app_services_geometry_measure_foot",
+      "c_users_hp_desktop_one_backend_app_services_geometry_py",
+      "c_users_hp_desktop_one_backend_app_services_geometry_rationale_1",
+      "c_users_hp_desktop_one_backend_app_services_geometry_rationale_35",
+      "c_users_hp_desktop_one_backend_app_services_geometry_rationale_75",
+      "c_users_hp_desktop_one_backend_app_services_geometry_scaleresult",
+      "c_users_hp_desktop_one_backend_tests_test_geometry_py",
+      "c_users_hp_desktop_one_backend_tests_test_geometry_rationale_1",
+      "c_users_hp_desktop_one_backend_tests_test_geometry_test_measure_foot_implausible_penalised",
+      "c_users_hp_desktop_one_backend_tests_test_geometry_test_measure_foot_realistic",
+      "c_users_hp_desktop_one_backend_tests_test_geometry_test_scale_bad_ratio_low_confidence",
+      "c_users_hp_desktop_one_backend_tests_test_geometry_test_scale_perfect_a4_ratio_high_confidence",
+      "c_users_hp_desktop_one_backend_tests_test_geometry_test_scale_rejects_nonpositive"
+    ],
+    "3": [
+      "any",
+      "basesettings",
+      "c_users_hp_desktop_one_backend_app_config_get_settings",
+      "c_users_hp_desktop_one_backend_app_config_py",
+      "c_users_hp_desktop_one_backend_app_config_rationale_1",
+      "c_users_hp_desktop_one_backend_app_config_settings",
+      "c_users_hp_desktop_one_backend_app_config_settings_cors_origin_list",
+      "c_users_hp_desktop_one_backend_app_deps_decode",
+      "c_users_hp_desktop_one_backend_app_deps_get_optional_user_id",
+      "c_users_hp_desktop_one_backend_app_deps_py",
+      "c_users_hp_desktop_one_backend_app_deps_rationale_1",
+      "c_users_hp_desktop_one_backend_app_deps_rationale_37",
+      "c_users_hp_desktop_one_backend_app_deps_rationale_46",
+      "c_users_hp_desktop_one_backend_app_deps_require_user_id",
+      "c_users_hp_desktop_one_backend_app_main_health",
+      "c_users_hp_desktop_one_backend_app_main_py",
+      "c_users_hp_desktop_one_backend_app_main_rationale_1",
+      "c_users_hp_desktop_one_backend_app_main_rationale_40",
+      "c_users_hp_desktop_one_backend_app_main_root",
+      "c_users_hp_desktop_one_backend_app_services_db_base_url",
+      "c_users_hp_desktop_one_backend_app_services_db_dberror",
+      "c_users_hp_desktop_one_backend_app_services_db_delete_rows",
+      "c_users_hp_desktop_one_backend_app_services_db_headers",
+      "c_users_hp_desktop_one_backend_app_services_db_insert_row",
+      "c_users_hp_desktop_one_backend_app_services_db_is_configured",
+      "c_users_hp_desktop_one_backend_app_services_db_py",
+      "c_users_hp_desktop_one_backend_app_services_db_py_exception",
+      "c_users_hp_desktop_one_backend_app_services_db_rationale_1",
+      "c_users_hp_desktop_one_backend_app_services_db_rationale_45",
+      "c_users_hp_desktop_one_backend_app_services_db_select_rows"
+    ],
+    "4": [
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_allowjs",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_esmoduleinterop",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_incremental",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_isolatedmodules",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_jsx",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_lib",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_module",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_moduleresolution",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_noemit",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_paths",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_plugins",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_resolvejsonmodule",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_skiplibcheck",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_strict",
+      "c_users_hp_desktop_one_frontend_tsconfig_compileroptions_target",
+      "c_users_hp_desktop_one_frontend_tsconfig_exclude",
+      "c_users_hp_desktop_one_frontend_tsconfig_include",
+      "c_users_hp_desktop_one_frontend_tsconfig_json",
+      "c_users_hp_desktop_one_frontend_tsconfig_paths",
+      "ref_dom",
+      "ref_dom_iterable",
+      "ref_esnext",
+      "ref_next_env_d_ts",
+      "ref_next_types_ts",
+      "ref_node_modules",
+      "ref_src",
+      "ref_ts",
+      "ref_tsx"
+    ],
+    "5": [
+      "c_users_hp_desktop_one_backend_app_data_catalog_chart",
+      "c_users_hp_desktop_one_backend_app_data_catalog_get_product",
+      "c_users_hp_desktop_one_backend_app_data_catalog_product",
+      "c_users_hp_desktop_one_backend_app_data_catalog_py",
+      "c_users_hp_desktop_one_backend_app_data_catalog_rationale_1",
+      "c_users_hp_desktop_one_backend_app_data_catalog_rationale_33",
+      "c_users_hp_desktop_one_backend_app_data_catalog_sizerow",
+      "c_users_hp_desktop_one_backend_app_routers_catalog_list_catalog",
+      "c_users_hp_desktop_one_backend_app_routers_catalog_py",
+      "c_users_hp_desktop_one_backend_app_routers_catalog_rationale_1",
+      "c_users_hp_desktop_one_backend_app_routers_catalog_rationale_12",
+      "c_users_hp_desktop_one_backend_app_services_init_py",
+      "c_users_hp_desktop_one_backend_app_services_recommender_py",
+      "c_users_hp_desktop_one_backend_app_services_recommender_py_product",
+      "c_users_hp_desktop_one_backend_app_services_recommender_rationale",
+      "c_users_hp_desktop_one_backend_app_services_recommender_rationale_1",
+      "c_users_hp_desktop_one_backend_app_services_recommender_rationale_81",
+      "c_users_hp_desktop_one_backend_app_services_recommender_recommend",
+      "c_users_hp_desktop_one_backend_app_services_recommender_score_product",
+      "c_users_hp_desktop_one_backend_app_services_sizing_fit_badge",
+      "c_users_hp_desktop_one_backend_app_services_sizing_py",
+      "c_users_hp_desktop_one_backend_app_services_sizing_py_product",
+      "c_users_hp_desktop_one_backend_app_services_sizing_rationale_1",
+      "c_users_hp_desktop_one_backend_app_services_sizing_rationale_30",
+      "c_users_hp_desktop_one_backend_app_services_sizing_size_by_product_id",
+      "c_users_hp_desktop_one_backend_app_services_sizing_size_for",
+      "typeddict"
+    ],
+    "6": [
+      "c_users_hp_desktop_one_frontend_package_dependencies",
+      "c_users_hp_desktop_one_frontend_package_dependencies_framer_motion",
+      "c_users_hp_desktop_one_frontend_package_dependencies_html_to_image",
+      "c_users_hp_desktop_one_frontend_package_dependencies_next",
+      "c_users_hp_desktop_one_frontend_package_dependencies_react",
+      "c_users_hp_desktop_one_frontend_package_dependencies_react_dom",
+      "c_users_hp_desktop_one_frontend_package_dependencies_supabase_supabase_js",
+      "c_users_hp_desktop_one_frontend_package_json",
+      "c_users_hp_desktop_one_frontend_package_name",
+      "c_users_hp_desktop_one_frontend_package_private",
+      "c_users_hp_desktop_one_frontend_package_scripts",
+      "c_users_hp_desktop_one_frontend_package_scripts_build",
+      "c_users_hp_desktop_one_frontend_package_scripts_dev",
+      "c_users_hp_desktop_one_frontend_package_scripts_lint",
+      "c_users_hp_desktop_one_frontend_package_scripts_start",
+      "c_users_hp_desktop_one_frontend_package_version",
+      "framer_motion",
+      "html_to_image",
+      "next",
+      "react",
+      "react_dom",
+      "supabase_supabase_js"
+    ],
+    "7": [
+      "autoprefixer",
+      "c_users_hp_desktop_one_frontend_package_devdependencies",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_autoprefixer",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_eslint",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_eslint_config_next",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_postcss",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_tailwindcss",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_types_node",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_types_react",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_types_react_dom",
+      "c_users_hp_desktop_one_frontend_package_devdependencies_typescript",
+      "eslint",
+      "eslint_config_next",
+      "postcss",
+      "tailwindcss",
+      "types_node",
+      "types_react",
+      "types_react_dom",
+      "typescript"
+    ],
+    "8": [
+      "c_users_hp_desktop_one_frontend_src_app_layout_metadata",
+      "c_users_hp_desktop_one_frontend_src_app_layout_rootlayout",
+      "c_users_hp_desktop_one_frontend_src_app_layout_tsx",
+      "c_users_hp_desktop_one_frontend_src_app_login_page_loginpage",
+      "c_users_hp_desktop_one_frontend_src_app_login_page_tsx",
+      "c_users_hp_desktop_one_frontend_src_components_siteheader_siteheader",
+      "c_users_hp_desktop_one_frontend_src_components_siteheader_tsx",
+      "c_users_hp_desktop_one_frontend_src_lib_authprovider_authcontext",
+      "c_users_hp_desktop_one_frontend_src_lib_authprovider_authprovider",
+      "c_users_hp_desktop_one_frontend_src_lib_authprovider_authstate",
+      "c_users_hp_desktop_one_frontend_src_lib_authprovider_tsx",
+      "c_users_hp_desktop_one_frontend_src_lib_authprovider_useauth",
+      "c_users_hp_desktop_one_frontend_src_lib_supabase_getsupabaseclient",
+      "c_users_hp_desktop_one_frontend_src_lib_supabase_supabaseconfigured",
+      "c_users_hp_desktop_one_frontend_src_lib_supabase_ts"
+    ],
+    "9": [
+      "c_users_hp_desktop_one_backend_tests_test_api_py",
+      "c_users_hp_desktop_one_backend_tests_test_api_rationale_1",
+      "c_users_hp_desktop_one_backend_tests_test_api_test_catalog_lists_products",
+      "c_users_hp_desktop_one_backend_tests_test_api_test_gait_endpoint",
+      "c_users_hp_desktop_one_backend_tests_test_api_test_health",
+      "c_users_hp_desktop_one_backend_tests_test_api_test_manual_measurement_endpoint",
+      "c_users_hp_desktop_one_backend_tests_test_api_test_recommend_endpoint",
+      "c_users_hp_desktop_one_backend_tests_test_api_test_scan_foot_empty_upload_rejected",
+      "c_users_hp_desktop_one_backend_tests_test_api_test_size_endpoint_and_unknown_product"
+    ],
+    "10": [
+      "c_users_hp_desktop_one_backend_tests_test_recommender_py",
+      "c_users_hp_desktop_one_backend_tests_test_recommender_rationale_1",
+      "c_users_hp_desktop_one_backend_tests_test_recommender_test_llm_failure_falls_back_gracefully",
+      "c_users_hp_desktop_one_backend_tests_test_recommender_test_llm_rewrite_hook_used_and_safe",
+      "c_users_hp_desktop_one_backend_tests_test_recommender_test_plush_road_runner_prefers_glide_cushion",
+      "c_users_hp_desktop_one_backend_tests_test_recommender_test_recommend_returns_ranked_limited_list",
+      "c_users_hp_desktop_one_backend_tests_test_recommender_test_stability_trail_runner_prefers_terra_trail"
+    ],
+    "11": [
+      "c_users_hp_desktop_one_backend_tests_test_scans_py",
+      "c_users_hp_desktop_one_backend_tests_test_scans_rationale_1",
+      "c_users_hp_desktop_one_backend_tests_test_scans_test_bogus_bearer_token_is_rejected",
+      "c_users_hp_desktop_one_backend_tests_test_scans_test_delete_scan_requires_auth",
+      "c_users_hp_desktop_one_backend_tests_test_scans_test_list_scans_requires_auth",
+      "c_users_hp_desktop_one_backend_tests_test_scans_test_save_scan_requires_auth"
+    ],
+    "12": [
+      "c_users_hp_desktop_one_backend_tests_test_sizing_py",
+      "c_users_hp_desktop_one_backend_tests_test_sizing_test_all_models_sizeable",
+      "c_users_hp_desktop_one_backend_tests_test_sizing_test_fit_badges_across_range",
+      "c_users_hp_desktop_one_backend_tests_test_sizing_test_size_returns_true_fit_for_typical_foot",
+      "c_users_hp_desktop_one_backend_tests_test_sizing_test_snug_when_headroom_low",
+      "c_users_hp_desktop_one_backend_tests_test_sizing_test_unknown_product_raises"
+    ],
+    "13": [
+      "c_users_hp_desktop_one_supabase_migrations_0001_init_products",
+      "c_users_hp_desktop_one_supabase_migrations_0001_init_profiles",
+      "c_users_hp_desktop_one_supabase_migrations_0001_init_recommendations",
+      "c_users_hp_desktop_one_supabase_migrations_0001_init_scans",
+      "c_users_hp_desktop_one_supabase_migrations_0001_init_size_charts",
+      "c_users_hp_desktop_one_supabase_migrations_0001_init_sql"
+    ],
+    "14": [
+      "c_users_hp_desktop_one_supabase_migrations_0002_rls_and_storage_products",
+      "c_users_hp_desktop_one_supabase_migrations_0002_rls_and_storage_profiles",
+      "c_users_hp_desktop_one_supabase_migrations_0002_rls_and_storage_recommendations",
+      "c_users_hp_desktop_one_supabase_migrations_0002_rls_and_storage_scans",
+      "c_users_hp_desktop_one_supabase_migrations_0002_rls_and_storage_size_charts",
+      "c_users_hp_desktop_one_supabase_migrations_0002_rls_and_storage_sql"
+    ],
+    "15": [
+      "c_users_hp_desktop_one_backend_app_services_gait_derive_gait",
+      "c_users_hp_desktop_one_backend_app_services_gait_py",
+      "c_users_hp_desktop_one_backend_app_services_gait_rationale_1",
+      "c_users_hp_desktop_one_backend_app_services_gait_rationale_20"
+    ],
+    "16": [
+      "c_users_hp_desktop_one_backend_scripts_generate_seed_main",
+      "c_users_hp_desktop_one_backend_scripts_generate_seed_py",
+      "c_users_hp_desktop_one_backend_scripts_generate_seed_q",
+      "c_users_hp_desktop_one_backend_scripts_generate_seed_rationale_1"
+    ],
+    "17": [
+      "c_users_hp_desktop_one_frontend_src_app_page_home",
+      "c_users_hp_desktop_one_frontend_src_app_page_impact",
+      "c_users_hp_desktop_one_frontend_src_app_page_steps",
+      "c_users_hp_desktop_one_frontend_src_app_page_tsx"
+    ],
+    "18": [
+      "c_users_hp_desktop_one_frontend_src_components_segmentedcontrol_cols",
+      "c_users_hp_desktop_one_frontend_src_components_segmentedcontrol_option",
+      "c_users_hp_desktop_one_frontend_src_components_segmentedcontrol_segmentedcontrol",
+      "c_users_hp_desktop_one_frontend_src_components_segmentedcontrol_tsx"
+    ],
+    "19": [
+      "c_users_hp_desktop_one_frontend_eslintrc_extends",
+      "c_users_hp_desktop_one_frontend_eslintrc_json",
+      "ref_next_core_web_vitals"
+    ],
+    "20": [
+      "c_users_hp_desktop_one_backend_app_init_py",
+      "c_users_hp_desktop_one_backend_app_init_rationale_1"
+    ],
+    "21": [
+      "c_users_hp_desktop_one_frontend_next_config_mjs",
+      "c_users_hp_desktop_one_frontend_next_config_nextconfig"
+    ],
+    "22": [
+      "c_users_hp_desktop_one_frontend_next_env_d_rationale_4",
+      "c_users_hp_desktop_one_frontend_next_env_d_ts"
+    ],
+    "23": [
+      "c_users_hp_desktop_one_frontend_postcss_config_config",
+      "c_users_hp_desktop_one_frontend_postcss_config_mjs"
+    ],
+    "24": [
+      "c_users_hp_desktop_one_frontend_tailwind_config_config",
+      "c_users_hp_desktop_one_frontend_tailwind_config_ts"
+    ],
+    "25": [
+      "c_users_hp_desktop_one_backend_app_data_init_py"
+    ],
+    "26": [
+      "c_users_hp_desktop_one_backend_app_routers_init_py"
+    ],
+    "27": [
+      "c_users_hp_desktop_one_backend_tests_init_py"
+    ],
+    "28": [
+      "c_users_hp_desktop_one_supabase_seed_sql"
+    ]
+  },
+  "cohesion": {
+    "0": 0.09639953542392567,
+    "1": 0.10121457489878542,
+    "2": 0.1053763440860215,
+    "3": 0.11264367816091954,
+    "4": 0.06896551724137931,
+    "5": 0.10826210826210826,
+    "6": 0.09090909090909091,
+    "7": 0.10526315789473684,
+    "8": 0.21904761904761905,
+    "9": 0.2222222222222222,
+    "10": 0.2857142857142857,
+    "11": 0.3333333333333333,
+    "12": 0.3333333333333333,
+    "13": 0.5333333333333333,
+    "14": 0.3333333333333333,
+    "15": 0.5,
+    "16": 0.6666666666666666,
+    "17": 0.5,
+    "18": 0.5,
+    "19": 0.6666666666666666,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0
+  },
+  "gods": [
+    {
+      "id": "c_users_hp_desktop_one_frontend_tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 16
+    },
+    {
+      "id": "c_users_hp_desktop_one_backend_app_config_get_settings",
+      "label": "get_settings()",
+      "degree": 11
+    },
+    {
+      "id": "c_users_hp_desktop_one_backend_app_services_geometry_compute_scale",
+      "label": "compute_scale()",
+      "degree": 10
+    },
+    {
+      "id": "c_users_hp_desktop_one_frontend_src_lib_authprovider_useauth",
+      "label": "useAuth()",
+      "degree": 9
+    },
+    {
+      "id": "c_users_hp_desktop_one_backend_app_services_geometry_measure_foot",
+      "label": "measure_foot()",
+      "degree": 8
+    },
+    {
+      "id": "c_users_hp_desktop_one_backend_app_services_cv_pipeline_analyze_foot_image",
+      "label": "analyze_foot_image()",
+      "degree": 7
+    },
+    {
+      "id": "c_users_hp_desktop_one_backend_app_routers_scan_scan_foot",
+      "label": "scan_foot()",
+      "degree": 6
+    },
+    {
+      "id": "c_users_hp_desktop_one_backend_app_services_db_dberror",
+      "label": "DbError",
+      "degree": 6
+    },
+    {
+      "id": "c_users_hp_desktop_one_frontend_src_lib_api_jsonorthrow",
+      "label": "jsonOrThrow()",
+      "degree": 6
+    },
+    {
+      "id": "c_users_hp_desktop_one_backend_app_data_catalog_product",
+      "label": "Product",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "test_scale_bad_ratio_low_confidence()",
+      "target": "compute_scale()",
+      "source_files": [
+        "backend/tests/test_geometry.py",
+        "backend/app/services/geometry.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `test_scale_bad_ratio_low_confidence()` unexpectedly reaches hub `compute_scale()`"
+    },
+    {
+      "source": "test_scale_perfect_a4_ratio_high_confidence()",
+      "target": "compute_scale()",
+      "source_files": [
+        "backend/tests/test_geometry.py",
+        "backend/app/services/geometry.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `test_scale_perfect_a4_ratio_high_confidence()` unexpectedly reaches hub `compute_scale()`"
+    },
+    {
+      "source": "test_scale_rejects_nonpositive()",
+      "target": "compute_scale()",
+      "source_files": [
+        "backend/tests/test_geometry.py",
+        "backend/app/services/geometry.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `test_scale_rejects_nonpositive()` unexpectedly reaches hub `compute_scale()`"
+    },
+    {
+      "source": "scan_foot()",
+      "target": "get_settings()",
+      "source_files": [
+        "backend/app/routers/scan.py",
+        "backend/app/config.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "is_configured()",
+      "target": "get_settings()",
+      "source_files": [
+        "backend/app/services/db.py",
+        "backend/app/config.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `is_configured()` unexpectedly reaches hub `get_settings()`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `get_settings()` connect `App Config & Auth Deps` to `Foot Scan & Recommend API`?",
+      "why": "High betweenness centrality (0.015) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `devDependencies` connect `Dev & Build Dependencies` to `Frontend Dependencies`?",
+      "why": "High betweenness centrality (0.010) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 5 inferred relationships involving `compute_scale()` (e.g. with `test_measure_foot_implausible_penalised()` and `test_measure_foot_realistic()`) actually correct?",
+      "why": "`compute_scale()` has 5 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `one8 FitLab — FastAPI backend package.`, `Application settings loaded from environment variables.  All values have safe de`, `Curated mock one8 catalog with per-model size charts and attributes.  This is th` to the rest of the system?",
+      "why": "113 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Foot Scan & Recommend API` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.09639953542392567 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Studio & History Pages` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10121457489878542 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Foot Measurement Pipeline` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1053763440860215 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

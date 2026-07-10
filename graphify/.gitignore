@@ -1,0 +1,29 @@
+# === Graphify ignore rules ===
+# Keep the useful, shareable artifacts under graphify-out/:
+#   graph.html            interactive graph
+#   graph.json            persistent queryable graph
+#   GRAPH_REPORT.md       audit report
+#   manifest.json         graph metadata
+#   .graphify_analysis.json / .graphify_labels.json   analysis + community labels
+# Everything below is machine-local, regenerable, or noise — don't commit it.
+
+# AST / stat cache — large and fully regenerable via `graphify update .`
+graphify-out/cache/
+
+# Auto-created dated backup snapshots (e.g. graphify-out/2026-07-10/)
+graphify-out/20[0-9][0-9]-[0-9][0-9]-[0-9][0-9]/
+
+# Label signature (machine-local integrity file)
+graphify-out/.graphify_labels.json.sig
+
+# Local memory / reflection scratch, if generated later
+graphify-out/memory/
+graphify-out/reflections/
+
+# Any raw content Graphify fetches via `graphify add`
+raw/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
